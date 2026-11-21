@@ -1,5 +1,7 @@
 # Privacy Policy (Coin Pusher Voyage)
 
+[日本語版はこちら](https://noxyako.github.io/coin-pusher-legal/)
+
 Effective date: November 21, 2026
 
 This policy explains how the developer of Coin Pusher Voyage (the "App") handles information about its users.
