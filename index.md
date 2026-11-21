@@ -1,5 +1,7 @@
 # プライバシーポリシー（Coin Pusher Voyage）
 
+[English version](https://noxyako.github.io/coin-pusher-legal/privacy-policy.en)
+
 制定日: 2026 年 11月 21日
 
 Coin Pusher Voyage（以下「本アプリ」）の開発者（以下「開発者」）は、本アプリの利用者の情報を次のとおり取り扱います。
